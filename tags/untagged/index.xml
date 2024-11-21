@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Untagged on Too Human</title>
+    <link>https://toohuman.io/tags/untagged/</link>
+    <description>Recent content in Untagged on Too Human</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Jul 2022 23:51:31 +0900</lastBuildDate>
+    <atom:link href="https://toohuman.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discovering research: Why I came to Japan</title>
+      <link>https://toohuman.io/posts/2022/07/discovering-research-why-i-came-to-japan/</link>
+      <pubDate>Mon, 11 Jul 2022 23:51:31 +0900</pubDate>
+      <guid>https://toohuman.io/posts/2022/07/discovering-research-why-i-came-to-japan/</guid>
+      <description>&lt;p&gt;There is a lot to say about what led me to applying for a JSPS fellowship to afford me a year of independent research in Japan. It is difficult, though, to identify the causal links from one moment to the next leading up to that point in my life.&lt;/p&gt;&#xA;&lt;p&gt;So instead, I have been thinking about my motivations at the time and what I envisaged from my time in Japan. I hope that distilling this will allow me to make the most of my time here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://toohuman.io/posts/2021/07/test/</link>
+      <pubDate>Tue, 13 Jul 2021 23:38:46 +0100</pubDate>
+      <guid>https://toohuman.io/posts/2021/07/test/</guid>
+      <description>&lt;p&gt;Hello world, what&amp;rsquo;s up?&lt;/p&gt;&#xA;&lt;p&gt;This is an initial test post for testing the content layout.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
