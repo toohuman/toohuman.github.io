@@ -5,8 +5,36 @@
         <description>Recent content in Posts on Too Human</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 11 Jul 2022 23:51:31 +0900</lastBuildDate>
+        <lastBuildDate>Sun, 24 Nov 2024 17:00:49 +0900</lastBuildDate>
         <atom:link href="https://toohuman.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Photography is noticing</title>
+            <link>https://toohuman.io/posts/2024/11/photography-is-noticing/</link>
+            <pubDate>Sun, 24 Nov 2024 17:00:49 +0900</pubDate>
+            
+            <guid>https://toohuman.io/posts/2024/11/photography-is-noticing/</guid>
+            <description>&lt;p&gt;For me, Photography is the intentional noticing of things. When I walk to work in the morning, the scenery becomes dull with each passing season as I grow used to the imagery. If I have my camera and walk with intention, then I being to &lt;em&gt;notice&lt;/em&gt;. I see elements of architecture, of nature, and of people that I would otherwise miss.&lt;/p&gt;
+&lt;p&gt;When I first purchased a &amp;ldquo;proper&amp;rdquo; camera (the Ricoh GR IIIx), it was for my upcoming &amp;ldquo;trip&amp;rdquo; to Tokyo, Japan (this trip was intended to be 1 year of research in a lab at the University of Tokyo, but I remain in that lab, 2.5 years later).&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>For me, Photography is the intentional noticing of things. When I walk to work in the morning, the scenery becomes dull with each passing season as I grow used to the imagery. If I have my camera and walk with intention, then I being to <em>notice</em>. I see elements of architecture, of nature, and of people that I would otherwise miss.</p>
+<p>When I first purchased a &ldquo;proper&rdquo; camera (the Ricoh GR IIIx), it was for my upcoming &ldquo;trip&rdquo; to Tokyo, Japan (this trip was intended to be 1 year of research in a lab at the University of Tokyo, but I remain in that lab, 2.5 years later).</p>
+<p>This year I &ldquo;upgraded&rdquo; (kinda) to a more professional camera: the Fujifilm X-T5. I wanted an interchangeable lens camera and also, perhaps more importantly, I wanted something more weatherproof and robust. While the Ricoh is an amazing camera, and a true everyday carry, I felt there were times when the weather in Tokyo created the perfect conditions for street photography with puddles galore providing extra illuminations, but the fear of getting my Ricoh wet would mean I would have to cradle an umbrella the whole time which sometimes becomes quite stressful to manage in more crowded areas of Tokyo.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Discovering research: Why I came to Japan</title>
+            <link>https://toohuman.io/posts/2022/07/discovering-research-why-i-came-to-japan/</link>
+            <pubDate>Mon, 11 Jul 2022 23:51:31 +0900</pubDate>
+            
+            <guid>https://toohuman.io/posts/2022/07/discovering-research-why-i-came-to-japan/</guid>
+            <description>&lt;p&gt;There is a lot to say about what led me to applying for a JSPS fellowship to afford me a year of independent research in Japan. It is difficult, though, to identify the causal links from one moment to the next leading up to that point in my life.&lt;/p&gt;
+&lt;p&gt;So instead, I have been thinking about my motivations at the time and what I envisaged from my time in Japan. I hope that distilling this will allow me to make the most of my time here.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>There is a lot to say about what led me to applying for a JSPS fellowship to afford me a year of independent research in Japan. It is difficult, though, to identify the causal links from one moment to the next leading up to that point in my life.</p>
+<p>So instead, I have been thinking about my motivations at the time and what I envisaged from my time in Japan. I hope that distilling this will allow me to make the most of my time here.</p>
+<p>I had been in Bristol since the Autumn of 2013 when I started by doctoral research in the Engineering Mathematics department at the University of Bristol. At that time, I was a fresh graduate of Computer Science and my only glimpse into research had been my final-year project, for which I unsuccessfully designed a new ray-tracing-based algorithm for line-of-sight detection in a very rudimentary 3D engine. It was terrible, but like all projects, I learned a lot about programming, basic maths (that I probably should have known already) and how difficult writing up the research was. Doing the research was difficult but rewarding, but writing was just pure pain. That would remain true up to this point.</p>
+]]></content>
+        </item>
         
         <item>
             <title>Test</title>

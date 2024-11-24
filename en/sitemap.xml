@@ -2,27 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://toohuman.io/posts/2024/11/photography-is-noticing/</loc>
+    <lastmod>2024-11-24T17:00:49+09:00</lastmod>
+  </url><url>
     <loc>https://toohuman.io/posts/</loc>
-    <lastmod>2022-07-11T23:51:31+09:00</lastmod>
-  </url><url>
-    <loc>https://toohuman.io/</loc>
-    <lastmod>2022-07-11T23:51:31+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://toohuman.io/jp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://toohuman.io/"
-                />
-  </url><url>
-    <loc>https://toohuman.io/about/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-24T17:00:49+09:00</lastmod>
   </url><url>
     <loc>https://toohuman.io/tags/</loc>
-    <lastmod>2021-07-13T23:38:46+01:00</lastmod>
+    <lastmod>2024-11-24T17:00:49+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
@@ -34,10 +21,29 @@
                 href="https://toohuman.io/tags/"
                 />
   </url><url>
-    <loc>https://toohuman.io/posts/2021/07/test/</loc>
-    <lastmod>2021-07-13T23:38:46+01:00</lastmod>
+    <loc>https://toohuman.io/</loc>
+    <lastmod>2024-11-24T17:00:49+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://toohuman.io/jp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://toohuman.io/"
+                />
   </url><url>
     <loc>https://toohuman.io/tags/untagged/</loc>
+    <lastmod>2024-11-24T17:00:49+09:00</lastmod>
+  </url><url>
+    <loc>https://toohuman.io/posts/2022/07/discovering-research-why-i-came-to-japan/</loc>
+    <lastmod>2022-07-11T23:51:31+09:00</lastmod>
+  </url><url>
+    <loc>https://toohuman.io/about/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://toohuman.io/posts/2021/07/test/</loc>
     <lastmod>2021-07-13T23:38:46+01:00</lastmod>
   </url><url>
     <loc>https://toohuman.io/series/</loc>
