@@ -21,25 +21,6 @@
     <loc>https://toohuman.io/about/</loc>
     <lastmod>2022-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://toohuman.io/tags/</loc>
-    <lastmod>2021-07-13T23:38:46+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://toohuman.io/jp/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://toohuman.io/tags/"
-                />
-  </url><url>
-    <loc>https://toohuman.io/posts/2021/07/test/</loc>
-    <lastmod>2021-07-13T23:38:46+01:00</lastmod>
-  </url><url>
-    <loc>https://toohuman.io/tags/untagged/</loc>
-    <lastmod>2021-07-13T23:38:46+01:00</lastmod>
-  </url><url>
     <loc>https://toohuman.io/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -50,6 +31,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://toohuman.io/series/"
+                />
+  </url><url>
+    <loc>https://toohuman.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://toohuman.io/jp/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://toohuman.io/tags/"
                 />
   </url>
 </urlset>

@@ -15,12 +15,5 @@
       <guid>https://toohuman.io/about/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Michael and I&amp;rsquo;m currently a JSPS Postdoctoral Research Fellow at the University of Tokyo, Japan.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>Test</title>
-      <link>https://toohuman.io/posts/2021/07/test/</link>
-      <pubDate>Tue, 13 Jul 2021 23:38:46 +0100</pubDate>
-      <guid>https://toohuman.io/posts/2021/07/test/</guid>
-      <description>&lt;p&gt;Hello world, what&amp;rsquo;s up?&lt;/p&gt;&#xA;&lt;p&gt;This is an initial test post for testing the content layout.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
