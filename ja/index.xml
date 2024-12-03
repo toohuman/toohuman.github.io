@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>トゥー・ヒューマン</title>
-    <link>http://localhost:1313/jp/</link>
+    <link>https://toohuman.io/ja/</link>
     <description>Recent content on トゥー・ヒューマン</description>
     <generator>Hugo</generator>
-    <language>jp</language>
-    <atom:link href="http://localhost:1313/jp/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language>
+    <atom:link href="https://toohuman.io/ja/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
